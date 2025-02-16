@@ -2,7 +2,7 @@
 
 <div align="center" style='display:flex'>
             <a href="https://github.com/thimowthy">
-            <img height="150em" src="https://github-readme-stats-thimowthys-projects.vercel.app/api?username=thimowthy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+            <img height="150em" src="https://github-readme-stats-thimowthys-projects.vercel.app/api?username=thimowthy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_all_commits"/>
             <img height="150em" src="https://github-readme-stats-thimowthys-projects.vercel.app/api/top-langs/?username=thimowthy&layout=compact&langs_count=7&theme=dark&count_private=true&exclude_repo=portfolio-DataScience"/>
 </div>
 
@@ -22,6 +22,8 @@
 &nbsp;<div align="center">
             [![Spotify](https://novatorem-thimowthys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21oro5tak3wo7l72cbrinjetq)
 </div>
+
+##
 
 <div> 
             <p> Contatos </p>
