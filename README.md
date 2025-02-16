@@ -3,18 +3,19 @@
 <div align="center" style='display:flex'>
             <a href="https://github.com/thimowthy">
             <img height="150em" src="https://github-readme-stats-thimowthys-projects.vercel.app/api?username=thimowthy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-            <img height="150em" src="https://github-readme-stats-thimowthys-projects.vercel.app/api/top-langs/?username=thimowthy&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+            <img height="150em" src="https://github-readme-stats-thimowthys-projects.vercel.app/api/top-langs/?username=thimowthy&layout=compact&langs_count=7&theme=dark&count_private=true&exclude_repo=portfolio-DataScience"/>
 </div>
 
 ##
 
 <div style="display: inline_block">
             <br>
-            <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-            <img align="center" alt="-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-            <img align="center" alt="-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-            <img align="center" alt="-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-            <img align="center" alt="-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+            <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+            <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+            <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
+            <img align="center" alt="Jupyter Notebook" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+            <img align="center" alt="Scikit Learn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
 </div>
   
 ##
